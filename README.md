@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @madmd
-- 👀 I’m interested in all things truthful      
-- 🌱 I’m currently learning slowly to code. Had some college experience with FORTRAN.
+- 👀 I’m interested in all things truthful.  Always loved technology and science.      
+- 🌱 I’m currently learning how to code. Had some college experience with FORTRAN way back in the day.
 - 💞️ I’m looking to collaborate on scientific or medical projects
-- 📫 How to reach me.  Will post soon.
+- 📫 How to reach me: madmd@me.com
 
 <!---
 madmd/madmd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
