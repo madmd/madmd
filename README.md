@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @madmd
-- 👀 I’m interested in all things truthful.  Always loved technology and science.      
+- 👋 Hi, I’m michael
+- 👀 I’m interested in all things truthful.   I always loved technology and science.      
 - 🌱 I’m currently learning how to code. Had some college experience with FORTRAN way back in the day.
-- 💞️ I’m looking to collaborate on scientific or medical projects
+- 💞️ I'll ultimately be collaborating on scientific, medical projects and bitcoin development and security.
 - 📫 How to reach me: madmd@me.com
 
 <!---
